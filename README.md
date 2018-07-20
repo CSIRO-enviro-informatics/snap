@@ -1,5 +1,10 @@
 # snap - Analytics on Slack with Elastic Search and Kibana
 
+
+## Requires
+
+docker, docker-compose, jq
+
 ## Use
 
 `docker-compose up -d`  
